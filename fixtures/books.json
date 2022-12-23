@@ -1,0 +1,51 @@
+[
+  {
+    "model": "books.book",
+    "pk": 1,
+    "fields": {
+      "name": "Война и мир",
+      "author": "Ф.Д. Достоевский",
+      "pub_date": "2018-02-27"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 2,
+    "fields": {
+      "name": "1984",
+      "author": "Джордж Оруэл",
+      "pub_date": "2016-12-06"
+    }
+
+  },
+   {
+    "model": "books.book",
+    "pk": 3,
+    "fields": {
+      "name": "Скотный Двор",
+      "author": "Джордж Оруэл",
+      "pub_date": "2012-03-20"
+    }
+
+  },
+   {
+    "model": "books.book",
+    "pk": 4,
+    "fields": {
+      "name": "О дивный Новый Мир",
+      "author": "Олдос Хаксли",
+      "pub_date": "2015-11-13"
+    }
+
+  },
+   {
+    "model": "books.book",
+    "pk": 5,
+    "fields": {
+      "name": "Автостопом по галактике",
+      "author": " Адам Дуглас",
+      "pub_date": "2020-01-14"
+    }
+
+  }
+]
